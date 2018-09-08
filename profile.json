@@ -1,19 +1,18 @@
-{
-  "first_name" : "Ryan",
-  "last_name" : "Rosado",
-  "displayHandle" : "BeardandSpecs",
-  "Age": 23,
-  "Active": true
-
-  "posts" : [
-    {
-    "Can anyone see my messages?  I'm not sure if these are going through?"
-    },
-    {
-      "If anyone else knows how this site works, can you help me out?"
-    },
-    {
-      "Hey guys, just trying to get started with this new social network!"
-    }
-  ]
+{  
+   "first_name":"Ryan",
+   "last_name":"Rosado",
+   "displayHandle":"BeardandSpecs",
+   "Age":23,
+   "Active":true,
+   "posts":[  
+      {  
+         "post":"Can anyone see my messages?  I'm not sure if these are going through?"
+      },
+      {  
+         "post":"If anyone else knows how this site works, can you help me out?"
+      },
+      {  
+         "post":"Hey guys, just trying to get started with this new social network!"
+      }
+   ]
 }
