@@ -2,8 +2,8 @@
    "first_name":"Ryan",
    "last_name":"Rosado",
    "displayHandle":"BeardandSpecs",
-   "Age":23,
-   "Active":true,
+   "age":23,
+   "active":true,
    "posts":[  
       {  
          "post":"Can anyone see my messages?  I'm not sure if these are going through?"
